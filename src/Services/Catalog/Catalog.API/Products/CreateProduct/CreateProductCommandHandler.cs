@@ -27,7 +27,7 @@
             ///return CreateProductResult result  
             return new CreateProductResult(product.Id);
 
-            throw new NotImplementedException();
+            
         }
     }
 }
